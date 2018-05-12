@@ -13,6 +13,8 @@ creator:
 description: book 1. Historical and travel material.--book 2. Discussion of native
   problems--personal and social.--book 3. Discussion of the political problems involving
   Australasia, Asia and America.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41716#The-Pacific-Triangle
 gutenberg_issued: '2012-12-27'
 gutenberg_type: Text
 identifiers:
