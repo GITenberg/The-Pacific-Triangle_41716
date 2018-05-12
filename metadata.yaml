@@ -1,0 +1,33 @@
+_repo: The-Pacific-Triangle_41716
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41716-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Greenbie, Sydney
+    birthdate: 1889
+    deathdate: 1960
+    gutenberg_agent_id: '41323'
+    url: http://www.gutenberg.org/2009/agents/41323
+description: book 1. Historical and travel material.--book 2. Discussion of native
+  problems--personal and social.--book 3. Discussion of the political problems involving
+  Australasia, Asia and America.
+gutenberg_issued: '2012-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41716'
+  lccn: '21018395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Pacific Ocean'
+- !lcsh 'Eastern question (Far East)'
+tableOfContents: 'Book 1. Historical and travel material -- Book 2. Discussion of
+  native problems: personal and social -- Book 3. Discussion of the political problems
+  involving Australasia, Asia and America.'
+title: The Pacific Triangle
+url: http://www.gutenberg.org/ebooks/41716
